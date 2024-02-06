@@ -6,6 +6,7 @@
     <title>Carta</title>
 </head>
 <body>
+<header>
     <address>
         <p>Dr. Eleanor Gaye</p>
         <p>Awesome Science faculty University of Awesome Bobtown. CA 99999. USA</p>
@@ -18,8 +19,9 @@
         <p>Miss Eileen Dover</p>
         <p>4321 Cliff Top Edge Dover. <br><br> CT9 XXX<br><br> UK</p>
         
-      </address>
-      <br>
+      </addres>
+      
+ <header/>     
 
 <div>
     <h2>Re: Eileen Dover university application</h2> 
